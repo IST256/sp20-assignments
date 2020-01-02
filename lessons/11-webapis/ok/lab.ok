@@ -1,0 +1,15 @@
+{
+  "name": "lesson 11 Lab - CCL-Web-Services-And-APIs",
+  "endpoint": "syr/ist256/sp20/lesson11lab",
+  "src": [
+    "CCL-Web-Services-And-APIs.ipynb"
+  ],
+  "tests": {
+      "ok/test*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Lesson {{xx}} Homework {{filename}}",
+  "endpoint": "syr/ist256/sp20/lesson{{xx}}hw",
+  "src": [
+    "{{filename}}.ipynb"
+  ],
+  "tests": {
+      "ok/test*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
