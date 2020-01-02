@@ -1,0 +1,15 @@
+{
+  "name": "lesson 13 Lab - CCL-Data-Visualization",
+  "endpoint": "syr/ist256/sp20/lesson13lab",
+  "src": [
+    "CCL-Data-Visualization.ipynb"
+  ],
+  "tests": {
+      "ok/test*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
