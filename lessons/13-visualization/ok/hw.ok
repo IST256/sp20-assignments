@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 13 Homework NYC4-US-Population",
+  "name": "Lesson 13 Homework ",
   "endpoint": "syr/ist256/sp20/lesson13hw",
   "src": [
-    "NYC4-US-Population.ipynb"
+    ".ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

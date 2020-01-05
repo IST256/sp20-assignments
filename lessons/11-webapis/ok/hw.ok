@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 11 Homework NYC4-Reddit-News-Sentiment",
+  "name": "Lesson 11 Homework ",
   "endpoint": "syr/ist256/sp20/lesson11hw",
   "src": [
-    "NYC4-Reddit-News-Sentiment.ipynb"
+    ".ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 06 Homework NYC4-Sentiment-v1",
+  "name": "Lesson 06 Homework ",
   "endpoint": "syr/ist256/sp20/lesson06hw",
   "src": [
-    "NYC4-Sentiment-v1.ipynb"
+    ".ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

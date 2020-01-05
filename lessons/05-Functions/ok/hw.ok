@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 05 Homework NYC4-Sleep-In",
+  "name": "Lesson 05 Homework ",
   "endpoint": "syr/ist256/sp20/lesson05hw",
   "src": [
-    "NYC4-Sleep-In.ipynb"
+    ".ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

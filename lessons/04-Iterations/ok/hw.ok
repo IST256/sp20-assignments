@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 04 Homework NYC4-Guess-A-Number",
+  "name": "Lesson 04 Homework ",
   "endpoint": "syr/ist256/sp20/lesson04hw",
   "src": [
-    "NYC4-Guess-A-Number.ipynb"
+    ".ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

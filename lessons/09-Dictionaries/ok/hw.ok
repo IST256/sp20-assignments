@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 09 Homework NYC4-Syracuse-Weather",
+  "name": "Lesson 09 Homework ",
   "endpoint": "syr/ist256/sp20/lesson09hw",
   "src": [
-    "NYC4-Syracuse-Weather.ipynb"
+    ".ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

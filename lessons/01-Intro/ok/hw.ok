@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 01 Homework NYC4-Mad-Libs",
+  "name": "Lesson 01 Homework ",
   "endpoint": "syr/ist256/sp20/lesson01hw",
   "src": [
-    "NYC4-Mad-Libs.ipynb"
+    ".ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 02 Homework NYC4-Temperature-Conversion",
+  "name": "Lesson 02 Homework ",
   "endpoint": "syr/ist256/sp20/lesson02hw",
   "src": [
-    "NYC4-Temperature-Conversion.ipynb"
+    ".ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

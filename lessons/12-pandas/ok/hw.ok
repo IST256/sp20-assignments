@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 12 Homework NYC4-Exam-Scores",
+  "name": "Lesson 12 Homework ",
   "endpoint": "syr/ist256/sp20/lesson12hw",
   "src": [
-    "NYC4-Exam-Scores.ipynb"
+    ".ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"
