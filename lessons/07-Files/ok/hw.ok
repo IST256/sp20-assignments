@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 07 Homework ",
+  "name": "Lesson 07 Homework HW-NYC4-Email-Harvest-Training",
   "endpoint": "syr/ist256/sp20/lesson07hw",
   "src": [
-    ".ipynb"
+    "HW-NYC4-Email-Harvest-Training.ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

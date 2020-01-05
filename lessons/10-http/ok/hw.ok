@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 10 Homework ",
+  "name": "Lesson 10 Homework HW-NYC4-Reddit-News-Sentiment",
   "endpoint": "syr/ist256/sp20/lesson10hw",
   "src": [
-    ".ipynb"
+    "HW-NYC4-Reddit-News-Sentiment.ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

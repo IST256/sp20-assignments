@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 02 Homework ",
+  "name": "Lesson 02 Homework HW-NYC2-House-Depot-Paint-Estimator",
   "endpoint": "syr/ist256/sp20/lesson02hw",
   "src": [
-    ".ipynb"
+    "HW-NYC2-House-Depot-Paint-Estimator.ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

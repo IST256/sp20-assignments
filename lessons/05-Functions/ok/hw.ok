@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 05 Homework ",
+  "name": "Lesson 05 Homework HW-NYC2-Course-Grade",
   "endpoint": "syr/ist256/sp20/lesson05hw",
   "src": [
-    ".ipynb"
+    "HW-NYC2-Course-Grade.ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"
