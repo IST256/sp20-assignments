@@ -1,8 +1,8 @@
 {
-  "name": "Lesson 11 Homework HW-NYC4-Reddit-News-Sentiment",
+  "name": "Lesson 11 Homework HW-NYC1-musixmatch-sentiment",
   "endpoint": "syr/ist256/sp20/lesson11hw",
   "src": [
-    "HW-NYC4-Reddit-News-Sentiment.ipynb"
+    "HW-NYC1-musixmatch-sentiment.ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"
