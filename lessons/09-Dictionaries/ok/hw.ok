@@ -1,6 +1,6 @@
 {
   "name": "Lesson 09 Homework HW-NYC4-Syracuse-Weather",
-  "endpoint": "syr/ist256/sp20/lesson09hw",
+  "endpoint": "syr/ist256/sp20/h09",
   "src": [
     "HW-NYC4-Syracuse-Weather.ipynb"
   ],

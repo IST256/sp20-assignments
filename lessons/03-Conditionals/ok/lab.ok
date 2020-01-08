@@ -1,6 +1,6 @@
 {
   "name": "lesson 03 Lab - CCL-Conditionals",
-  "endpoint": "syr/ist256/sp20/lesson03lab",
+  "endpoint": "syr/ist256/sp20/l03",
   "src": [
     "CCL-Conditionals.ipynb"
   ],

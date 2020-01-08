@@ -1,6 +1,6 @@
 {
   "name": "Lesson 10 Homework HW-NYC4-Reddit-News-Sentiment",
-  "endpoint": "syr/ist256/sp20/lesson10hw",
+  "endpoint": "syr/ist256/sp20/h10",
   "src": [
     "HW-NYC4-Reddit-News-Sentiment.ipynb"
   ],

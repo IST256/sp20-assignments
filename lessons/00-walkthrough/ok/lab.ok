@@ -1,8 +1,8 @@
 {
-  "name": "lesson 06 Lab - CCL-Strings",
-  "endpoint": "syr/ist256/sp20/l06",
+  "name": "WALKTHROUGH",
+  "endpoint": "syr/ist256/sp20/walkthrough",
   "src": [
-    "CCL-Strings.ipynb"
+    "WALKTHROUGH.ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

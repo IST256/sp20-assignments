@@ -1,6 +1,6 @@
 {
   "name": "Lesson 07 Homework HW-NYC4-Email-Harvest-Training",
-  "endpoint": "syr/ist256/sp20/lesson07hw",
+  "endpoint": "syr/ist256/sp20/h07",
   "src": [
     "HW-NYC4-Email-Harvest-Training.ipynb"
   ],

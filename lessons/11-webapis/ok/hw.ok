@@ -1,6 +1,6 @@
 {
   "name": "Lesson 11 Homework HW-NYC1-musixmatch-sentiment",
-  "endpoint": "syr/ist256/sp20/lesson11hw",
+  "endpoint": "syr/ist256/sp20/h11",
   "src": [
     "HW-NYC1-musixmatch-sentiment.ipynb"
   ],

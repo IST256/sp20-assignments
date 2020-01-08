@@ -1,6 +1,6 @@
 {
   "name": "lesson 12 Lab - CCL-Data-Analysis-With-Pandas",
-  "endpoint": "syr/ist256/sp20/lesson12lab",
+  "endpoint": "syr/ist256/sp20/l12",
   "src": [
     "CCL-Data-Analysis-With-Pandas.ipynb"
   ],

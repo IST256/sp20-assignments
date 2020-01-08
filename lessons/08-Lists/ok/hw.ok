@@ -1,6 +1,6 @@
 {
   "name": "Lesson 08 Homework HW-NYC2-Information-Extraction",
-  "endpoint": "syr/ist256/sp20/lesson08hw",
+  "endpoint": "syr/ist256/sp20/h08",
   "src": [
     "HW-NYC2-Information-Extraction.ipynb"
   ],

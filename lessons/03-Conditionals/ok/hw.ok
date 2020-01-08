@@ -1,6 +1,6 @@
 {
   "name": "Lesson 03 Homework HW-NYC2-Paint-Pricing",
-  "endpoint": "syr/ist256/sp20/lesson03hw",
+  "endpoint": "syr/ist256/sp20/h03",
   "src": [
     "HW-NYC2-Paint-Pricing.ipynb"
   ],

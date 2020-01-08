@@ -1,6 +1,6 @@
 {
   "name": "lesson 02 Lab - CCL-Variables-And-Types",
-  "endpoint": "syr/ist256/sp20/lesson02lab",
+  "endpoint": "syr/ist256/sp20/l02",
   "src": [
     "CCL-Variables-And-Types.ipynb"
   ],

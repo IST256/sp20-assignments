@@ -1,6 +1,6 @@
 {
   "name": "Lesson 01 Homework HW-NYC3-Limerick-Generator",
-  "endpoint": "syr/ist256/sp20/lesson01hw",
+  "endpoint": "syr/ist256/sp20/h01",
   "src": [
     "HW-NYC3-Limerick-Generator.ipynb"
   ],

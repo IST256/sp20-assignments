@@ -1,6 +1,6 @@
 {
   "name": "Lesson 13 Homework HW-NYC4-US-Population",
-  "endpoint": "syr/ist256/sp20/lesson13hw",
+  "endpoint": "syr/ist256/sp20/h13",
   "src": [
     "HW-NYC4-US-Population.ipynb"
   ],

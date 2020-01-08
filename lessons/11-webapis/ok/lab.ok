@@ -1,6 +1,6 @@
 {
   "name": "lesson 11 Lab - CCL-Web-Services-And-APIs",
-  "endpoint": "syr/ist256/sp20/lesson11lab",
+  "endpoint": "syr/ist256/sp20/l11",
   "src": [
     "CCL-Web-Services-And-APIs.ipynb"
   ],
