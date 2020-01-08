@@ -1,6 +1,6 @@
 {
   "name": "Lesson 05 Homework HW-NYC2-Course-Grade",
-  "endpoint": "syr/ist256/sp20/lesson05hw",
+  "endpoint": "syr/ist256/sp20/h05",
   "src": [
     "HW-NYC2-Course-Grade.ipynb"
   ],

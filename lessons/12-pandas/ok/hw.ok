@@ -1,6 +1,6 @@
 {
   "name": "Lesson 12 Homework HW-NYC3-Pandas-Darksky-Mashup",
-  "endpoint": "syr/ist256/sp20/lesson12hw",
+  "endpoint": "syr/ist256/sp20/h12",
   "src": [
     "HW-NYC3-Pandas-Darksky-Mashup.ipynb"
   ],

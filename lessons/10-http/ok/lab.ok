@@ -1,6 +1,6 @@
 {
   "name": "lesson 10 Lab - CCL-Web-API-Foundations-HTTP",
-  "endpoint": "syr/ist256/sp20/lesson10lab",
+  "endpoint": "syr/ist256/sp20/l10",
   "src": [
     "CCL-Web-API-Foundations-HTTP.ipynb"
   ],

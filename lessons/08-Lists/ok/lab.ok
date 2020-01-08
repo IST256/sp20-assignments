@@ -1,6 +1,6 @@
 {
   "name": "lesson 08 Lab - CCL-Lists",
-  "endpoint": "syr/ist256/sp20/lesson08lab",
+  "endpoint": "syr/ist256/sp20/l08",
   "src": [
     "CCL-Lists.ipynb"
   ],

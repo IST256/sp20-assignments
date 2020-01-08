@@ -1,6 +1,6 @@
 {
   "name": "Lesson 04 Homework HW-NYC4-Guess-A-Number",
-  "endpoint": "syr/ist256/sp20/lesson04hw",
+  "endpoint": "syr/ist256/sp20/h04",
   "src": [
     "HW-NYC4-Guess-A-Number.ipynb"
   ],

@@ -1,6 +1,6 @@
 {
   "name": "lesson 13 Lab - CCL-Data-Visualization",
-  "endpoint": "syr/ist256/sp20/lesson13lab",
+  "endpoint": "syr/ist256/sp20/l13",
   "src": [
     "CCL-Data-Visualization.ipynb"
   ],

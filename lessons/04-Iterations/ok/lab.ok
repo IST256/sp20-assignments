@@ -1,6 +1,6 @@
 {
   "name": "lesson 04 Lab - CCL-Iterations",
-  "endpoint": "syr/ist256/sp20/lesson04lab",
+  "endpoint": "syr/ist256/sp20/l04",
   "src": [
     "CCL-Iterations.ipynb"
   ],
