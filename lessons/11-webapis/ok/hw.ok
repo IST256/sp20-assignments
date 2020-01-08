@@ -1,8 +1,8 @@
 {
-  "name": "Lesson {{xx}} Homework {{filename}}",
-  "endpoint": "syr/ist256/sp20/lesson{{xx}}hw",
+  "name": "Lesson 11 Homework HW-NYC1-musixmatch-sentiment",
+  "endpoint": "syr/ist256/sp20/lesson11hw",
   "src": [
-    "{{filename}}.ipynb"
+    "HW-NYC1-musixmatch-sentiment.ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

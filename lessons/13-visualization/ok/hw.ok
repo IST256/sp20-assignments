@@ -1,8 +1,8 @@
 {
-  "name": "Lesson {{xx}} Homework {{filename}}",
-  "endpoint": "syr/ist256/sp20/lesson{{xx}}hw",
+  "name": "Lesson 13 Homework HW-NYC4-US-Population",
+  "endpoint": "syr/ist256/sp20/lesson13hw",
   "src": [
-    "{{filename}}.ipynb"
+    "HW-NYC4-US-Population.ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"

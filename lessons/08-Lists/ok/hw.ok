@@ -1,8 +1,8 @@
 {
-  "name": "Lesson {{xx}} Homework {{filename}}",
-  "endpoint": "syr/ist256/sp20/lesson{{xx}}hw",
+  "name": "Lesson 08 Homework HW-NYC2-Information-Extraction",
+  "endpoint": "syr/ist256/sp20/lesson08hw",
   "src": [
-    "{{filename}}.ipynb"
+    "HW-NYC2-Information-Extraction.ipynb"
   ],
   "tests": {
       "ok/test*.py": "ok_test"
